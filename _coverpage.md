@@ -1,14 +1,14 @@
 ![logo](_media/logo.png)
 
-# 渡船怪客的个人知识库 <small>1.0</small>
+# 渡船怪客的知识库
 
-> 记录思考、分享知识
+> 故不积跬步，无以至千里；不积小流，无以成江海。
+> 
+> ——《荀子》
 
 - 人工智能
 - 全栈开发
-- 更多……
+- ......
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](/home.md)
-
-![](_media/bg.jpg)
+[GitHub](https://github.com/ChrisDong-THU/BrainyBox)
