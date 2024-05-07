@@ -7,7 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="/assets/img/db.ico" type="image/x-icon">
-  <link rel="stylesheet" href="/assets/css/theme-simple-dark.css">
+  <link id="theme-link" rel="stylesheet" href="/assets/css/theme-simple.css">
 </head>
 <body>
   <div id="app">知识库加载中……</div>
@@ -35,6 +35,11 @@
     .m1-font {
       font-family: kaiti;
       font-size: 22px;
+      color: #B5A642;
+    }
+    .m2-font {
+      font-size: 18px;
+      color: #FFFFFF;
     }
   </style>
   <script>
@@ -44,8 +49,8 @@
       repo: '',
       coverpage: true,
       onlyCover: true,
-      homepage: 'home.md',
       loadSidebar: true,
+      subMaxLevel: 2,
       loadNavbar: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
