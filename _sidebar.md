@@ -7,7 +7,7 @@
   * [Pytorch](/docs/CODE/Python/Pytorch.md)
 * **CPP**
 * **ROS**
-* **环境配置相关**
+* **ENV**
 * **其他**
   * [前端开发](/docs/Others/Front-end.md)
-  * [git](/docs/Others/git.md)
+  * [Git](/docs/Others/Git.md)
