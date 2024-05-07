@@ -1,7 +1,7 @@
 * 人工智能
-  * [知识记录](/docs/AI/knowledge.md)
-  * [论文解读](/docs/AI/papers.md)
-  * [开发记录](/docs/AI/develop.md)
+  * [知识记录](/docs/AI/Knowledge.md)
+  * [论文解读](/docs/AI/Papers.md)
+  * [开发记录](/docs/AI/Develop.md)
 * Python
   * [规范与简化](/docs/CODE/Python/Specification.md)
   * [Pytorch](/docs/CODE/Python/Pytorch.md)
