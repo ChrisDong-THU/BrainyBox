@@ -12,7 +12,9 @@
 
 4. 提交更改到本地历史区：`git commit -m "comments"`
 
-5. 远程1（拉取）：将本地历史区文件提交到github服务器暂存区：`git remote add origin <httpsaddress>` 设置同步：`git pull origin master --allow-unrelated-histories`
+5. 远程1（拉取）：
+   - 将本地历史区文件提交到github服务器暂存区：`git remote add origin <httpsaddress>` 
+   - 设置同步(可选)：`git pull origin master --allow-unrelated-histories`
 
 6. 远程2（推送）：提交到远程仓库：`git push -u origin master`
 
