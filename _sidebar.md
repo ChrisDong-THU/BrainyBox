@@ -1,2 +1,2 @@
 * [Home](/home.md)
-* [AI](/AI/guide.md "AI")
+* [AI](/docs/AI/main.md "AI")

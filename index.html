@@ -6,17 +6,44 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="icon" href="_media/db.ico" type="image/x-icon">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="icon" href="/assets/img/db.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/theme-simple-dark.css">
 </head>
 <body>
   <div id="app">知识库加载中……</div>
+  <style>
+    :root {
+      /* --theme-hue: 325; */
+      --cover-background-image: url("/assets/img/bg.jpg");
+      --cover-background-color: #000000;
+    }
+    @font-face {
+      font-family: MyFont;
+      src: url('/assets/fonts/FZQK.TTF');
+    }
+    .t1-font {
+      font-family: MyFont;
+      font-size: 32px;
+      display: block;
+      text-align: center;
+    }
+    .t2-font {
+      font-family: MyFont;
+      font-size: 26px;
+      text-align: center;
+    }
+    .m1-font {
+      font-family: kaiti;
+      font-size: 22px;
+    }
+  </style>
   <script>
     window.$docsify = {
-      name: '<span style="font-family: kaiti">渡船怪客的知识库</span>',
+      name: '<span class="t2-font">渡船怪客的知识库</span>',
       nameLink: '#/',
       repo: '',
       coverpage: true,
+      onlyCover: true,
       homepage: 'home.md',
       loadSidebar: true,
       loadNavbar: true,
