@@ -11,5 +11,3 @@
 * **其他**
   * [前端开发](/docs/Others/Front-end.md)
   * [git](/docs/Others/git.md)
-* **Links**
-* [Github](https://github.com/ChrisDong-THU/BrainyBox)
