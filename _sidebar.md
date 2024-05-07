@@ -8,5 +8,7 @@
 * CPP
 * ROS
 * 环境配置相关
+* 其他
+  * [前端开发](/docs/Others/Front-end.md)
 * **Links**
 * [Github](https://github.com/ChrisDong-THU/BrainyBox)
