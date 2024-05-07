@@ -6,7 +6,7 @@
 
 2. 初始化：`git init`
 
-   > 如与github的分支名不一致，需更改本地分支名为`main`：`git branch -m master main`
+   ?> 如与github的分支名不一致，需更改本地分支名为`main`：`git branch -m master main`
 
 3. 文件加入暂存区：`git add .`
 
